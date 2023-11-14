@@ -16,16 +16,7 @@
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
 
 <br>
-<br>
-
-</br>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<div>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Llimy1&layout=compact&theme=algolia"/><br><br>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Llimy1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</div>  
+<br> 
 
 
 ### 🐍  Commit
