@@ -15,4 +15,10 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white">
 
+<br>
+
+### 🐍  Commit
+
+<img src="https://github.com/Llimy1/Llimy1/blob/output/github-contribution-grid-snake.svg"/>
+
 
