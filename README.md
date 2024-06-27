@@ -19,7 +19,13 @@
 <br> 
 
 
-### 🐍  Commit
 
-<!-- <img src="https://github.com/bbororo/bbororo/blob/output/github-contribution-grid-snake.svg"/> -->
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/bbororo"
+  width="600"
+  height="300"
+/>
+</a>
 
